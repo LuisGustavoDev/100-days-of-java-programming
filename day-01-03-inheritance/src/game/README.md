@@ -110,4 +110,4 @@ Today, I learned how to apply **method overriding** and **inheritance** in Java.
 git clone https://github.com/LuisGustavoDev/100-days-of-java-programming.git
 ```
 2. Compile and run the **App.java** file from game package.
-3. Observe the behaviors of each animal by checking the console output for each respective method.
+3. Observe the behaviors of each character by checking the console output for methods like **toString()** and **attack()**.

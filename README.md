@@ -4,11 +4,6 @@ This repository contains my progress through the **100 Days of Java Programming*
 
 The goal is to commit to daily programming practice and build a strong foundation in Java.
 
-## Day 1: Object-Oriented Programming in Java
-Today, I learned about **inheritance**, **method overriding**, and **polymorphism** in Java. I applied these concepts by creating a class hierarchy, using the super() keyword to initialize shared attributes, and allowing subclasses to implement their own specialized behaviors.
+## Day 1-3: Object-Oriented Programming and Code Structuring in Java
 
-## Day 2: Organizing and Structuring Code Efficiently
-
-Today, I continued to explore concepts of **Object-Oriented Programming (OOP)**, specifically focusing on **inheritance**, **method overriding**, and **polymorphism**. Additionally, I learned more about how to **organize and structure code efficiently**. I understood better how to leverage the **super()** keyword to initialize attributes of the parent class in subclasses. These techniques are crucial for creating a well-structured class hierarchy, where common behaviors are inherited, and specific behaviors are implemented in subclasses.
-
-I'm looking forward to diving deeper into Java and continuing this journey. Stay tuned for updates as I progress in the challenge!
+Over the first three days, I focused on learning core concepts of **Object-Oriented Programming (OOP)** in Java, such as **inheritance**, **method overriding**, **polymorphism**, and c**ode structuring**. On Day 1, I practiced **inheritance**, which allowed me to create a base class and then extend it with specialized subclasses. I also learned about **method overriding**, which enabled me to change the behavior of methods inherited from the superclass in the subclass. **Polymorphism** was introduced to me as the ability of different objects to respond to the same method call in their own unique ways, based on their actual class type. On Day 2, I continued applying inheritance and method overriding, while focusing on organizing and structuring my code more efficiently. I practiced using the **super()** keyword to initialize attributes from the parent class in subclasses, and worked on making my code more modular. On Day 3, I expanded on these concepts by building more exercises that involved overriding methods to provide different behaviors and organizing the code into clean, manageable pieces. These exercises helped solidify my understanding of how OOP principles work together to create flexible and maintainable code.

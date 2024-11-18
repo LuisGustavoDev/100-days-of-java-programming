@@ -138,7 +138,11 @@ public class Dragon extends Bird {
 
 ### Main Application
 
+<<<<<<< HEAD
 In the **App.java class**, I instantiate objects for **Dog**, **Cat**, **Dragon**, and **Pigeon** to demonstrate their specific behaviors:
+=======
+In the App.java class, I instantiate objects for Dog, Cat, Dragon, and Pigeon to demonstrate their specific behaviors:
+>>>>>>> b31b283042316d5c849fc3a6b50d846555e9ed25
 ```java
 public class App {
     public static void main (String[] args) {
@@ -179,7 +183,11 @@ Today, I learned how to apply inheritance and method overriding in Java. The key
 ```bash
 git clone https://github.com/LuisGustavoDev/100-days-of-java-programming.git
 ```
+<<<<<<< HEAD
 2. Compile and run the **App.java** file from animals package.
+=======
+2. Compile and run the **App.java** file.
+>>>>>>> b31b283042316d5c849fc3a6b50d846555e9ed25
 3. Observe the behaviors of each animal by checking the console output for each respective method.
 
 
