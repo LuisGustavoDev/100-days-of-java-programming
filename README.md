@@ -12,3 +12,7 @@ Over the first three days, I focused on learning core concepts of **Object-Orien
 
 On **Day 4**, I focused on using **Collections** in Java, specifically `ArrayList`, to manage a dynamic group of objects. I worked with the **ContactRepository** class to efficiently store and manipulate contacts, practicing adding new contacts, searching for them by keyword, and displaying the list using the `toString()` method. I applied abstraction by encapsulating **contact** details in the Contact class and used polymorphism to manage and filter the data, helping me deepen my understanding of how to organize and handle collections of objects in Java.
 
+## Day 5: Extending the Call Management System
+
+On Day 5, I extended the project from Day 4 by adding a **Call Management System**. Building on the **Collections** concepts learned previously, I created the **Call** and **CallRepository** classes to track and store phone call details. I applied **encapsulation** to manage call information and used **polymorphism** by overloading the `call` method to support both `Contact` objects and phone numbers. Additionally, I incorporated Java's `LocalDateTime` and `DateTimeFormatter` to log call times. The **CallRepository** was integrated into the `CellPhone` class to track call history, demonstrating **composition**. This extension deepened my understanding of handling complex object interactions in Java.
+

@@ -17,5 +17,12 @@ public class App {
 
         System.out.println("Filter Contacts:");
         System.out.println(contactsCellphone.searchByKeyword("L"));
+
+        cellPhone.toCall(contact);
+        cellPhone.toCall(contact1);
+        cellPhone.toCall(contact2);
+        cellPhone.toCall(contact3);
+        System.out.println(cellPhone.getCallHistory());
+
     }
 }

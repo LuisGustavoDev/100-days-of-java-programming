@@ -165,5 +165,5 @@ This exercise helped me better understand how Java handles object-oriented princ
 ```bash
 git clone https://github.com/LuisGustavoDev/100-days-of-java-programming.git
 ```
-2. Compile and run the **App.java** file from devflix package.
+2. Compile and run the **App.java** file from `devflix` package.
 3. Observe the behaviors of each class by checking the console output for the different methods, particularly the use of **polymorphism** (e.g., different `play()` implementations for **Film** and **Serie**) and **method overloading** in the **Film** class.
