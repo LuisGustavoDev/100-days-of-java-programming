@@ -1,3 +1,5 @@
+package constant;
+
 public class Cpf {
 
     private static final int CPF_REGION_INDEX = 8;
