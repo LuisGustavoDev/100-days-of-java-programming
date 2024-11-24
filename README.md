@@ -6,16 +6,56 @@ The goal is to commit to daily programming practice and build a strong foundatio
 
 ## Day 1-3: Object-Oriented Programming and Code Structuring in Java
 
-Over the first three days, I focused on learning core concepts of **Object-Oriented Programming (OOP)** in Java, such as **inheritance**, **method overriding**, **polymorphism**, and **code structuring**. On Day 1, I practiced **inheritance**, which allowed me to create a base class and then extend it with specialized subclasses. I also learned about **method overriding**, which enabled me to change the behavior of methods inherited from the superclass in the subclass. **Polymorphism** was introduced to me as the ability of different objects to respond to the same method call in their own unique ways, based on their actual class type. On Day 2, I continued applying inheritance and method overriding, while focusing on organizing and structuring my code more efficiently. I practiced using the **super()** keyword to initialize attributes from the parent class in subclasses, and worked on making my code more modular. On Day 3, I expanded on these concepts by building more exercises that involved overriding methods to provide different behaviors and organizing the code into clean, manageable pieces. These exercises helped solidify my understanding of how OOP principles work together to create flexible and maintainable code.
+**Objectives**: Learn core concepts of **Object-Oriented Programming (OOP)** such as **inheritance**, **method overriding**, **polymorphism**, and **code structuring**.
 
-## Day 4: Collections in Java and Data Structures
+- **Day 1**:
+  - Practiced **inheritance**: Created a base class and extended it with specialized subclasses.
+  - **Method overriding**: Modified the behavior of methods inherited from the superclass in the subclass.
+  - Introduced to **polymorphism**: The ability of different objects to respond to the same method call in their own unique ways.
 
-On **Day 4**, I focused on using **Collections** in Java, specifically `ArrayList`, to manage a dynamic group of objects. I worked with the **ContactRepository** class to efficiently store and manipulate contacts, practicing adding new contacts, searching for them by keyword, and displaying the list using the `toString()` method. I applied abstraction by encapsulating **contact** details in the Contact class and used polymorphism to manage and filter the data, helping me deepen my understanding of how to organize and handle collections of objects in Java.
+- **Day 2**:
+  - Continued applying **inheritance** and **method overriding**.
+  - Focused on **code structuring**: Used **super()** to initialize attributes from the parent class in subclasses.
+  - Worked on organizing the code in a more modular way.
 
-## Day 5: Extending the Call Management System
+- **Day 3**:
+  - Completed exercises involving **overriding methods** to provide different behaviors.
+  - Focused on structuring code into clean, manageable pieces.
 
-On **Day 5**, I extended the project from Day 4 by adding a **Call Management System**. Building on the **Collections** concepts learned previously, I created the **Call** and **CallRepository** classes to track and store phone call details. I applied **encapsulation** to manage call information and used **polymorphism** by overloading the `call` method to support both `Contact` objects and phone numbers. Additionally, I incorporated Java's `LocalDateTime` and `DateTimeFormatter` to log call times. The **CallRepository** was integrated into the `CellPhone` class to track call history, demonstrating **composition**. This extension deepened my understanding of handling complex object interactions in Java.
+## Day 4-6: Collections in Java, Data Structures, and Static Methods
 
-## Day 6: Static Methods and Fields in Java
+**Objectives**: Explore the use of **Collections** in Java, **static methods** and **fields**, and deepen understanding of **encapsulation** and **polymorphism**.
 
-On **Day 6**, I learned to apply **static methods** and **static fields** in Java. I created a **Math** class with static methods (`sum()`, `square()`, `circleArea()`) for reusable functionality without creating an instance. I also used a static field, `piValue`, shared across all instances of the class. In the **Car** class, I used constructors to initialize attributes like `name` and `year`, and explored the difference between **static** and **instance variables**. This day deepened my understanding of static elements in Java.
+- **Day 4**:
+  - Used **ArrayList** to store and manipulate objects dynamically.
+  - Created the **ContactRepository** class to manage contacts, search by keywords, and display lists.
+  - Applied **abstraction** and **polymorphism** to manage and filter data.
+
+- **Day 5**:
+  - Extended the project by adding a **Call Management System**.
+  - Created **Call** and **CallRepository** classes to store call information.
+  - Used **encapsulation** to manage call details and **polymorphism** by overloading the `call` method.
+  - Implemented **LocalDateTime** and **DateTimeFormatter** to log call times.
+  - Integrated **CallRepository** into the **CellPhone** class to track call history.
+
+- **Day 6**:
+  - Introduced **static methods** and **static fields**.
+  - Created a **Math** class with static methods like `sum()`, `square()`, and `circleArea()`.
+  - Used a static field (`piValue`) shared across all instances of the class.
+  - Explored the difference between **static variables** and **instance variables**.
+
+## Day 7-9: Working with Exceptions, Flow Control, and Abstract Classes
+
+**Objectives**: Dive into **exceptions handling**, **flow control**, and **abstract classes**.
+
+- **Day 7**:
+  - Learned and practiced **exception handling** with **try-catch** blocks to capture and handle errors.
+  - Explored creating **custom exceptions**.
+
+- **Day 8**:
+  - Introduced to **flow control** with **if-else**, **switch-case**, and **while loops**.
+  - Practiced **iteration** over collections with loops.
+  
+- **Day 9**:
+  - Implemented **abstract classes** to represent generic entities.
+  - Studied the difference between **abstract classes** and **interfaces**.
